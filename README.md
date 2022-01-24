@@ -13,7 +13,7 @@ Therefore, they are not perfectly polished regarding professional software devel
 Instead, the projects should be seen as representations of the status quo of my academic coding style at that time.
 
 - The first OOP-project is written in C++ implementing a Monte Carlo method for simulating the dipole-dipole interactions of a magnetic cubic chain.
-- The second OOP-project is written in Python calculating the surface flux integrals of a fluid vector field over an interpolated surface region.
+- The second OOP-project is written in Python computing the surface flux integrals of a fluid vector field over an interpolated surface region.
 
 -----------------------------------------------------------------------
 I have also uploaded my master's thesis in a single repository as a PDF.
