@@ -1,7 +1,9 @@
 Hello,
 
 I am Oliver Franke, M.Sc. Astrophysics. 
+
 In my Master's studies I have specialized in computational plasma physics.
+
 I have been always interested in coding and I want to share some of my projects here - both academic work results and hobby achievements.
 
 -----------------------------------------------------------------------
@@ -15,6 +17,7 @@ Instead, the projects should be seen as representations of the status quo of my 
 
 -----------------------------------------------------------------------
 I have also uploaded my master's thesis in a single repository as a PDF.
+
 Please feel free to contact me if you have any questions regarding my research or my coding projects!
 
 
