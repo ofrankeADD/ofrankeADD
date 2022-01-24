@@ -1,7 +1,10 @@
 Hello,
 
-I am Oliver Franke.
+I am Oliver Franke, M.Sc. Astrophysics. 
+In my Master's studies I have specialized in computational plasma physics.
+I have been always interested in coding and I want to share some of my projects here - both academic work results and hobby achievements.
 
+-----------------------------------------------------------------------
 You can find here two repositories containing two of my OOP-projects I was working on during my studies at univeristy as a student and research assistant.
 Please note that these projects were originally not designed to be seen by a public audience.
 Therefore, they are not perfectly polished regarding professional software development standards.
@@ -14,7 +17,6 @@ The second OOP-project is written in Python calculating the surface flux integra
 I have also uploaded my master's thesis in a single repository as a PDF.
 Please feel free to contact me if you have any questions regarding my research or my coding projects!
 
-Have a nice day. :)
 
 <!---
 ofrankeADD/ofrankeADD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
